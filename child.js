@@ -1,1 +1,1 @@
-console.log("hello world yang zahab");
+alert("ini alert zahab");
